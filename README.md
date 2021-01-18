@@ -2,4 +2,4 @@
 
 ## Hello world
 
-This is a good & bad very bad a simple readme file
+This is a good^2 & bad very bad a simple readme file
