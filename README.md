@@ -2,4 +2,4 @@
 
 ## Hello world
 
-This is a simple readme file
+This is a good simple readme file
